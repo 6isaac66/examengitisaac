@@ -39,3 +39,11 @@ finalmente añadimos el centro en un tercer commit y ya podemos movernos entre e
 ![Screenshot_1](https://user-images.githubusercontent.com/114656738/205117403-0515bde3-22f3-44dd-a87d-20a97678371e.png)
 
 finalmente hemos vuelto al commit actual con el checkout main
+
+PARTE C GIT
+
+Directorio de trabajo (Working directory): Es la parte que conseguimos copiar cuando mandamos el comando de clonar un repositorio, cuando estamos trabajando desde otro ordenador en casa por ejemplo.
+
+Área de preparación (Staging area): Es donde se encuentran los datos de los cambios que acabamos de realizar a nuestros archivos y que posteriormente podremos subir a nuesstro repositorio de github para mas tarde deescargarlos y modificarlos nuevamente
+
+Repositorio local (Directorio .git): Es donde tenemos nuestros archivos en su version actual, es decir cuando los modificamos en nuestro propio ordenador, la carpeta donde los tenemos por ejemplo, seria nuestro repositorio local.
