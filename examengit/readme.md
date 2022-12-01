@@ -1,6 +1,8 @@
 hola
 
-Proceeso practica 1
+Proceso practica 1
+
+PARTE A GIT
 
 ![Screenshot_1](https://user-images.githubusercontent.com/114656738/205112502-e8d41d86-9d67-4a06-a694-cec6be955057.png)
 
@@ -16,7 +18,14 @@ ponemos el commit para subir los archivos y finalmnte los subimos a nuestro repo
 
 ![Screenshot_1](https://user-images.githubusercontent.com/114656738/205113264-ffb5f274-e28c-477f-b9d1-699234282c0e.png)
 
+
+
+
+
+
 Proceso practica 2
+
+PARTE B GIT
 
 ![Screenshot_1](https://user-images.githubusercontent.com/114656738/205116275-a7585226-b9fe-4262-b1dc-96f7a7b32cc4.png)
 
@@ -39,6 +48,11 @@ finalmente añadimos el centro en un tercer commit y ya podemos movernos entre e
 ![Screenshot_1](https://user-images.githubusercontent.com/114656738/205117403-0515bde3-22f3-44dd-a87d-20a97678371e.png)
 
 finalmente hemos vuelto al commit actual con el checkout main
+
+
+
+
+
 
 PARTE C GIT
 
